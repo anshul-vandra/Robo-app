@@ -1,62 +1,62 @@
 export const robots = [
   {
     id: 1,
-    name: 'anshul vandra',
-    username: 'anshul',
-    email: 'anshulmga@april.biz'
+    name: 'Leanne Graham',
+    username: 'Bret',
+    email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Parag Soni',
-    username: 'parag',
-    email: 'parag@agile.com'
+    name: 'Ervin Howell',
+    username: 'Antonette',
+    email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-    name: 'devangi shah',
-    username: 'devangi',
-    email: 'dshah@agile.com'
+    name: 'Clementine Bauch',
+    username: 'Samantha',
+    email: 'Nathan@yesenia.net'
   },
   {
     id: 4,
-    name:"jimmy palekar",
-    username: 'jimmy',
-    email: 'jm@agile.com'
+    name: 'Patricia Lebsack',
+    username: 'Karianne',
+    email: 'Julianne.OConner@kory.org'
   },
   {
     id: 5,
-    name: 'minaz chaklasiya',
-    username: 'minaz',
-    email: 'minaz@yahooo.com'
+    name: 'Chelsey Dietrich',
+    username: 'Kamren',
+    email: 'Lucio_Hettinger@annie.ca'
   },
   {
     id: 6,
-    name: 'Mr ronak shah',
-    username: 'ronak',
-    email: "rshah@agile.com"
+    name: 'Mrs. Dennis Schulist',
+    username: 'Leopoldo_Corkery',
+    email: 'Karley_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'vimal shah',
-    username: 'vimal',
-    email: 'vmshah@gmail.com'
+    name: 'Kurtis Weissnat',
+    username: 'Elwyn.Skiles',
+    email: 'Telly.Hoeger@billy.biz'
   },
   {
     id: 8,
-    name: 'yamin chippa',
-    username: 'yamin',
-    email: 'yamin@agile.com'
+    name: 'Nicholas Runolfsdottir V',
+    username: 'Maxime_Nienow',
+    email: 'Sherwood@rosamond.me'
   },
   {
     id: 9,
-    name: 'gaurav paneru',
-    username: 'gk',
-    email: 'gk@dana.io'
+    name: 'Glenna Reichert',
+    username: 'Delphine',
+    email: 'Chaim_McDermott@dana.io'
   },
   {
     id: 10,
-    name: 'mahima lakhlani',
-    username: 'piarates',
-    email: 'jhondepp@agile.com'
+    name: 'Clementina DuBuque',
+    username: 'Moriah.Stanton',
+    email: 'Rey.Padberg@karina.biz'
   }
 ];
